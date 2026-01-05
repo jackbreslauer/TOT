@@ -16,6 +16,9 @@
 - Tell me when something is optional/nice-to-know vs critical
 - Proactively handle git commits - don't wait for me to ask
 
+## Development Philosophy
+Start with an MVP proof-of-concept that does all the technical things needed with the smallest number of inputs/outputs. Build with an architecture that is compatible with and extensible to a fuller product later. Prove the system works end-to-end first, then expand.
+
 ## The App
 - Reads wearable data from Apple HealthKit
 - Sends data to an LLM
