@@ -14,6 +14,7 @@
 - Walk through steps clearly
 - Answer "tangential" questions - I'm here to learn
 - Tell me when something is optional/nice-to-know vs critical
+- Proactively handle git commits - don't wait for me to ask
 
 ## The App
 - Reads wearable data from Apple HealthKit
